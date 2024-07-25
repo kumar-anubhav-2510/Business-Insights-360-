@@ -1,7 +1,7 @@
 
 # Business Insights 360
 
-<img width="935" alt="bi image" src="">
+<img width="935" alt="bi image" src="https://github.com/kumar-anubhav-2510/Business-Insights-360-/blob/main/PowerBI_CustomerInsights_blog.png">
 
 ## Project Overview
 
