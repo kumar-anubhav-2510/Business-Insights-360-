@@ -122,7 +122,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home View
 
-<img width="936" alt="Home_Page" src="https://github.com/hrutiksarode/Business_Insights_360/assets/83489079/4ab4ab5a-58ab-4c95-ad6a-b8c764d173cf">
+<img width="936" alt="Home_Page" src="https://github.com/kumar-anubhav-2510/Business-Insights-360-/blob/main/All%20Report%20Views/Home_Page.png">
 
 
 ## Finance View
